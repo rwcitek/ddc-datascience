@@ -7,5 +7,6 @@
 5) To the right of "Mean =>" ( cell B4 ), enter a formula to divide the "Count" by the "Sum", i.e. calculate the mean. This number should equal the "Calc Mean".
 
 See ["Desc Stats-1.sample"]( https://docs.google.com/spreadsheets/d/1wJrEsDjoz-jHYv3YN7I4IrvCjqkdUM-y-ONiRtD6P1c/edit?usp=share_link ) to check your work.
+This is a sample of the sheet showing the results of the calculations, but only the first ten values of the Samples data set.
 
 
