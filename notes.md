@@ -26,3 +26,7 @@ https://www.linkedin.com/learning/pandas-essential-training-24082178
 
 1.  [SQL - data science ]( https://www.linkedin.com/learning/coding-exercises-sql-data-science )
 
+## ANNs
+
+1. Check this out on LinkedIn Learning: https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training
+
