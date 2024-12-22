@@ -1,5 +1,11 @@
 # LinkedIn Learning links
 
+## Python
+
+1. Check this out on LinkedIn Learning: https://www.linkedin.com/learning/data-ingestion-with-python?trk=share_ios_course_learning&shareId=+GdkfAGBSKKPz33IsFYSzA==
+
+
+
 ## Pandas
 1. [Pandas Essential Training]( 
 https://www.linkedin.com/learning/pandas-essential-training-24082178
