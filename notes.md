@@ -2,8 +2,14 @@
 
 ## Python
 
-1. Check this out on LinkedIn Learning: https://www.linkedin.com/learning/data-ingestion-with-python?trk=share_ios_course_learning&shareId=+GdkfAGBSKKPz33IsFYSzA==
-2. Check this out on LinkedIn Learning: https://www.linkedin.com/learning/processing-text-with-python-essential-training?trk=share_ios_course_learning&shareId=UyLTDsKDRnimN4LGonzM6g==
+1. Check this out on LinkedIn Learning: https://www.linkedin.com/learning/data-ingestion-with-python
+2.
+  
+## NLP
+   
+1. https://www.linkedin.com/learning/processing-text-with-python-essential-training
+
+1. https://www.linkedin.com/learning/recurrent-neural-networks
 
 
 
