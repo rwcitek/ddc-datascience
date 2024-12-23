@@ -29,4 +29,8 @@ https://www.linkedin.com/learning/pandas-essential-training-24082178
 
 1. https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training
 2. https://www.linkedin.com/learning/training-neural-networks-in-python-17058600
+3. https://www.linkedin.com/learning/deep-learning-getting-started
+
+
+
 
