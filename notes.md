@@ -2,8 +2,7 @@
 
 ## Python
 
-1. Check this out on LinkedIn Learning: https://www.linkedin.com/learning/data-ingestion-with-python
-2.
+1. https://www.linkedin.com/learning/data-ingestion-with-python
   
 ## NLP
    
@@ -28,5 +27,5 @@ https://www.linkedin.com/learning/pandas-essential-training-24082178
 
 ## ANNs
 
-1. Check this out on LinkedIn Learning: https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training
+1. https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training
 
