@@ -263,6 +263,8 @@ Before watching the videos below, be sure to first log in to [LinkedIn Learning 
 
 
 
+## Exercises
+
 
 Do these three exercises to brush-up on or to get familiar with common operations within spreadsheets.
 
@@ -316,27 +318,52 @@ https://vincentarelbundock.github.io/Rdatasets/csv/Stat2Data/USstamps.csv
 
 This material is provided so that you will have some familiararity with it when we cover it again during class.  Don't worry if you don't understand everything as some of the videos go in to more detail than necessary.  But do be sure to go through all the lessons and queue up your questions to ask during class.
 
-**Intro to Markdown**
+
+
+
+## Intro to Markdown
+
+
 
 This is one video in a complete course.  You only need to watch this one video on ["Learning Markdown"]( https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown ).  Of course, you are welcome to watch the entire course, if you'd like.
 
-**Intro to Jupyter Notebooks**
+
+
+## Intro to Jupyter Notebooks
+
+
 
 This is one video in a complete course.  You only need to watch this one video on ["Jupyter Notebooks"]( https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks ).  Of course, you are welcome to watch the entire course, if you'd like.
 
-**Intro to Programming**
+
+## Intro to Programming
+
+
 
 Read the tutorial text for each lesson in ["Intro to Programming"]( https://www.kaggle.com/learn/intro-to-programming ).  This Kaggle course provides a quick introduction to programming using Python within the context of a Jupyter notebook.  You are not required to do the exercises. However, if you have time, do the corresponding exercises.
 
-**Intro to Python**
+
+
+
+## Intro to Python
+
+
 
 Read the tutorial text for each lesson in ["Python"]( https://www.kaggle.com/learn/python ).  This Kaggle course provides a deeper introduction to programming using Python within the context of a Jupyter notebook.  You are not required to do the exercises. However, if you have time, do the corresponding exercises.
 
-**Data Frames**
+
+
+
+## Data Frames
+
+
 
 Read the tutorial text for each lesson in ["Pandas"]( https://www.kaggle.com/learn/pandas ).  This Kaggle course provides a quick introduction to using Pandas data frames in Python within the context of a Jupyter notebook.  You are not required to do the exercises. However, if you have time, do the corresponding exercises.
 
-**Intro to Stats**
+
+## Intro to Stats
+
+
 
 This is a collection of LinkedIn Learning courses.  You do not have to do the quizes or challenges, unless you have time later.  Initially, just view the videos.
 
@@ -345,23 +372,41 @@ This is a collection of LinkedIn Learning courses.  You do not have to do the qu
 - [ Statistical Foundations 3: Using Data Sets]( https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets )
 - [ Statistical Foundations 4: Advanced Topics]( https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics )
 
-**SQL**
+
+
+## SQL
+
+
 
 Read the tutorial text for each lesson in ["Intro to SQL"]( https://www.kaggle.com/learn/intro-to-sql ).  This Kaggle course provides a quick introduction to SQL using Google BigQuery in Python within the context of a Jupyter notebook.  You are not required to do the exercises. However, if you have time, do the corresponding exercises.
 
-**Command Line Basics**
+
+## Command Line Basics
+
+
 
 This is one course on ["Learning the Linux Comand Line"]( https://www.linkedin.com/learning/learning-linux-command-line-14447912/ ).  You do not have to do the quizes or challenges, unless you have time later.  Initially, just view the videos.
 
-**Intro to Git and GitHub**
+
+
+## Intro to Git and GitHub
+
+
 
 This is one course on ["Learning Git and GitHub"]( https://www.linkedin.com/learning/learning-git-and-github-23011330/ ).  You do not have to do the quizes or challenges, unless you have time later.  Initially, just view the videos.
 
-**Intro to GitHub Codespaces**
+
+
+## Intro to GitHub Codespaces
+
+
 
 This is one video in a complete course.  You only need to watch this one video on ["Using GitHub Codespaces"]( https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-17064277/using-github-codespaces-with-this-course ).  Of course, you are welcome to watch the entire course, if you'd like.
 
-**Intro to Docker**
+
+
+## Intro to Docker
+
 
 This is a collection of LinkedIn Learning courses.  You do not have to do the quizes or challenges, unless you have time later.  Initially, just view the videos.
 
