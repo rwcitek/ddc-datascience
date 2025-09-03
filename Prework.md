@@ -206,44 +206,62 @@ When you are finished with Phase 1, fill out --> [[THIS FORM]( https://forms.gle
 ( estimated time to completion: 10 hours ; due 5pm MT, Wednesday, September 3rd )
 
 
-This courses is fairly fast-paced and uses numbers, lists of numbers, and operations on lists of numbers extensively.  Although there are no formal prerequisites, familiarity with working with a spreadsheet such as Google Sheets, Excel, or Numbers provides a definite advantage.
+This course is fairly fast-paced and uses numbers, lists of numbers, and operations on lists of numbers extensively.  Although there are no formal prerequisites, familiarity with working with a spreadsheet such as Google Sheets, LibreOffice Calc, MS Excel, or Apple Numbers provides a definite advantage.
 
 LinkedIn Learning provides some nice video courses that walk through using Google Drive and Google Sheets and that will help with the exercises below.  In addition, if you are hitting any roadblocks, please reach out to your cohort ( e.g. post in the cohort Slack channel. )
 
 Before watching the videos below, be sure to first log in to [LinkedIn Learning via the ABQ Library]( https://www.linkedin.com/learning-login/go/cabq) before clicking on the links below.
 
-- [Intro to Google Drive]( https://www.linkedin.com/learning/google-drive-essential-training-2023 )
 
-    0. Introduction
-    1. Getting Started with Google Drive
-    1. Work with Files
-    1. Organize and Search Google Drive
-    1. Work with Google Docs
-    1. Collaborate with Google Docs
-    1. Use Google Drive on a Mobile Device
 
-- [Intro to Google Sheets]( https://www.linkedin.com/learning/google-sheets-essential-training-2021 ), the first six chapters
+## [Intro to Google Drive]( https://www.linkedin.com/learning/google-drive-essential-training-2023 )
 
-    0. Introduction
-    1. Getting Started with Google Sheets
-    1. Creating and Managing Spreadsheets
-    1. Editing Spreadsheets
-    1. Viewing Spreadsheets
-    1. Formatting, Printing, Publishing Spreadsheets
-    1. Working with Spreadsheet Data
 
-- [Formulas in Google Sheets]( https://www.linkedin.com/learning/google-sheets-advanced-formulas-and-functions ), the first three chapters
 
-    0. Introduction
-    1. Creating and Managing Formulas
-    1. Using Mathematical Functions
-    1. Summarizing Data Using Statistical Functions
+0.  Introduction
+1.  Getting Started with Google Drive
+1.  Work with Files
+1.  Organize and Search Google Drive
+1.  Work with Google Docs
+1.  Collaborate with Google Docs
+1.  Use Google Drive on a Mobile Device
 
-- [Pivot Tables in Google Sheets]( https://www.linkedin.com/learning/google-sheets-pivot-tables )
 
-    0. Introduction
-    1. Creating and Manipulating Pivot Tables
-    1. Manipulating Pivot Tables
+
+## [Intro to Google Sheets]( https://www.linkedin.com/learning/google-sheets-essential-training-2021 ), the first six chapters
+
+
+
+0. Introduction
+1. Getting Started with Google Sheets
+1. Creating and Managing Spreadsheets
+1. Editing Spreadsheets
+1. Viewing Spreadsheets
+1. Formatting, Printing, Publishing Spreadsheets
+1. Working with Spreadsheet Data
+
+
+
+## [Formulas in Google Sheets]( https://www.linkedin.com/learning/google-sheets-advanced-formulas-and-functions ), the first three chapters
+
+
+
+0. Introduction
+1. Creating and Managing Formulas
+1. Using Mathematical Functions
+1. Summarizing Data Using Statistical Functions
+
+
+
+## [Pivot Tables in Google Sheets]( https://www.linkedin.com/learning/google-sheets-pivot-tables )
+
+
+
+0. Introduction
+1. Creating and Manipulating Pivot Tables
+1. Manipulating Pivot Tables
+
+
 
 
 Do these three exercises to brush-up on or to get familiar with common operations within spreadsheets.
