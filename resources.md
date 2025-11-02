@@ -1,8 +1,8 @@
 # Resources
 
 - [Albuquerque Chapter - American Statistical Association]( https://community.amstat.org/albuquerquechapter/home )
-- [How LLMs work]( https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work ) - LinkedIn Learning
 - [Large Language Models explained briefly]( https://www.youtube.com/watch?v=LPZh9BOjkQs ) - Grant Sanderson, 3blue1brown
+- [How LLMs work]( https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work ) - LinkedIn Learning
 - How to Lie ...
   - [How to Lie with Statistics]( https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics ) - Darrell Huff
   - [How to Lie with Maps]( https://en.wikipedia.org/wiki/How_to_Lie_with_Maps ) - Mark Monmonier
