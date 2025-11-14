@@ -11,4 +11,10 @@
   - [Netflix prize]( https://en.wikipedia.org/wiki/Netflix_Prize )
   - [Netflix never used its $1 million algorithm]( https://web.archive.org/web/20190130205932/http://saintlad.com/why-netflix-never-used-algorithm-won-netflix-1-million-challenge/ )
 - [The Most Common Cognitive Bias]( https://www.youtube.com/watch?v=vKA4w2O61Xo ) - Veritasium
-  
+
+- [The art of innovation | Guy Kawasaki | TEDxBerkeley]( https://www.youtube.com/watch?v=Mtjatz9r-Vc )
+- [Red Teaming: How Your Business Can Conquer the Competition by Challenging Everything]( https://www.amazon.com/Red-Teaming-Competition-Challenging-Everything/dp/1101905972 )
+
+
+
+
