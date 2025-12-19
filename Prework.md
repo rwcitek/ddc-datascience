@@ -4,7 +4,7 @@
 
 This page will walk you through the steps to set up the tools you will be using for this bootcamp.  Along the way you will also create your first couple of projects!  
 
-( view this page in [nbviewer]( https://nbviewer.org/github/rwcitek/ddc-datascience/blob/2025-09-15-Cohort-19/Prework.ipynb ) or in [Github]( https://github.com/rwcitek/ddc-datascience/blob/2025-09-15-Cohort-19/Prework.ipynb )
+( view this page in [nbviewer]( https://nbviewer.org/github/rwcitek/ddc-datascience/blob/2026-01-16-Cohort-20/Prework.ipynb ) or in [Github]( https://github.com/rwcitek/ddc-datascience/blob/2026-01-16-Cohort-20/Prework.ipynb )
 ).
 
 
@@ -42,20 +42,18 @@ You are not alone in this endeavor. You will run into issues and roadblocks.  In
 
 The purpose of prework is to prepare the student for the rigors of the course as well as expose them to its pace and expectations.  For the prework, students are encouraged to seek assistance from various sources, including Google, their peers, and other colleagues. However, they should only approach the instructor if they need clarification regarding the assignment, not for additional help or guidance.
 
-Prework is divided into five phases. The first four phases are **required**. The fifth phase is optional, but is recommended. 
+Prework is divided into five phases. The first four phases are **required**. The fifth phase is optional, but is recommended.
 
-The first day of lecture is on Monday, September 15th, and starts at 8:00am.
+The first day of lecture is on Friday, January 16th, and starts at 8:00am.
 
 **Due Dates:**
-* Phase 1: 17 days before the start of the bootcamp ( 5pm MT, Friday, August 29th )
-* Phase 2: 12 days before the start of the bootcamp ( 5pm MT, Wednesday, September 3rd )
-* Phase 3: 10 days before the start of the bootcamp ( 5pm MT, Friday, September 5th )
-* Phase 4:  4 days before the start of the bootcamp ( 5pm MT, Thursday, September 11th )
+* Phase 1: 14 days before the start of the bootcamp ( 5pm MT, Friday, January 2nd )
+* Phase 2: 9 days before the start of the bootcamp ( 5pm MT, Wednesday, January 7th )
+* Phase 3: 7 days before the start of the bootcamp ( 5pm MT, Friday, January 9th )
+* Phase 4: 1 day before the start of the bootcamp ( 5pm MT, Thursday, January 15th )
 * Phase 5: Optional
 
-> NOTE: if you are not able to turn in any of Phase 1-4 before their respective deadlines, please notify the instructor as soon as possible before the deadline.  Failure to complete the phases on-time without notifying the instructor will very likely result in you being dropped from the boot camp.
-
-
+> NOTE: if you are not able to turn in any of Phases 1-4 before their respective deadlines, please notify the instructor as soon as possible before the deadline.  Failure to complete the phases on-time without notifying the instructor will very likely result in you being dropped from the boot camp.
 
 
 
@@ -63,14 +61,14 @@ The first day of lecture is on Monday, September 15th, and starts at 8:00am.
 
 # Phase 1: Pro Dev and Setting Up Accounts
 
-( estimated time to completion: 3 hours ; due 5pm MT, August 29th )
+( estimated time to completion: 3 hours ; 5pm MT, Friday, January 2nd )
 
 
 ## Pro Dev Prework
 
 Our support staff of coaches and managers want to get to know you before you begin the bootcamp.
 
-Our Career Coach/Talent Manager will help you get started on your Professional Development, aka Pro Dev. Please follow these instructions, including a pre-career survey, that will help us customize your experience: 
+Our Career Coach/Talent Manager will help you get started on your Professional Development, aka Pro Dev. Please follow these instructions, including a pre-career survey, that will help us customize your experience:
 [Data Science Coaching Intake Survey]( https://cnm.formstack.com/forms/bootcamp_success_manager_survey )
 
 After setting up your student accounts and filling out the survey, contact our Coach, Sue. Sue would like to meet with you as soon as possible to learn more about you and your goals. Establishing an early relationship with your coach allows us to personalize your success plan. Please let Sue know when you are available to meet so that she can coordinate schedules. Sue can be reached at sandres1@cnm.edu.
@@ -85,7 +83,7 @@ As a data scientist you will have many different user accounts and credentials. 
 **It is also important to use a different, strong password for each account.**  
 
 - A password manager makes this easy because you don't have to worry about remembering each one (or reusing the same password which is one of the WORST practices for security).  
-- Password managers also make it easy to generate new random passwords that are more secure than what most people come up with on their own. 
+- Password managers also make it easy to generate new random passwords that are more secure than what most people come up with on their own.
 
 We recommend [Bitwarden](https://www.bitwarden.com) because it is open source, easy-to-use, available on all devices/browsers, and the free version is really free forever.  (Lastpass, Dashlane, or another alternative is OK, too.)
 
@@ -94,7 +92,7 @@ We recommend [Bitwarden](https://www.bitwarden.com) because it is open source, e
 When setting up a password manager, you will pick a 'master password' that will be the encryption key to keep all of your other passwords safe.  You need to make sure to REMEMBER this ONE password.
 
 - It is recommended that you pick a phrase you will remember.  
-- Include some special characters. 
+- Include some special characters.
 - Do not reuse an old password for this.
 
 In addition to the master password, set up multi-factor or 2-factor authentication ( MFA/2FA ).  [Google Authenticator]( https://googleauthenticator.net/ ), [Authy]( https://authy.com/ ), and [Microsoft Authenticator]( https://www.microsoft.com/en-us/security/mobile-authenticator-app ) are some examples of MFA/2FA mobile apps.
@@ -183,7 +181,7 @@ You will need to create a Github account at [www.github.com]( https://www.github
 You should verify that Single Sign On ( SSO ) via your CNM e-mail address works.  Here's one way to do that.  
 
 The digital book "Python for Data Analysis, 3rd Edition" by Wes McKinney has material available on GitHub.  Do the following steps:
-1. Connect to the [O'Reilly Learning Library]( https://www.oreilly.com/member/login/ ) 
+1. Connect to the [O'Reilly Learning Library]( https://www.oreilly.com/member/login/ )
 1. Enter your CNM e-mail address
 1. Click on Sign in with SSO
 1. Open [Chapter One of "Python for Data Analysis"]( https://www.oreilly.com/member/login/?next=/library/view/python-for-data/9781098104023/ch01.html )
@@ -203,7 +201,7 @@ When you are finished with Phase 1, fill out --> [[THIS FORM]( https://forms.gle
 
 # Phase 2: Google Drive and Google Sheets
 
-( estimated time to completion: 10 hours ; due 5pm MT, Wednesday, September 3rd )
+( estimated time to completion: 10 hours ; due 5pm MT, Wednesday, January 7th )
 
 
 This course is fairly fast-paced and uses numbers, lists of numbers, and operations on lists of numbers extensively.  Although there are no formal prerequisites, familiarity with working with a spreadsheet such as Google Sheets, LibreOffice Calc, MS Excel, or Apple Numbers provides a definite advantage.
@@ -281,7 +279,7 @@ When you have completed the exercises, create a Google Drive folder named `DS-Ph
 
 # Phase 3: Intro to the Toolchain
 
-( estimated time to completion: 3 hours ; due 5pm MT, Friday, September 5th )
+( estimated time to completion: 3 hours ; due 5pm MT, Friday, January 9th )
 
 
 ## Using Github with Google Colab
@@ -294,7 +292,7 @@ You do NOT have to follow along with this video, but you DO need to watch it bef
 
 Watch the video below for instructions on completing this project.
 
-Below are the links for the data used in this project. 
+Below are the links for the data used in this project.
 
 Here is the link to cite in your text block:
 
@@ -313,10 +311,10 @@ https://vincentarelbundock.github.io/Rdatasets/csv/Stat2Data/USstamps.csv
 
 # Phase 4: Tutorial Classes
 
-( estimated time to completion: 20 hours ; due 5pm MT, Thursday, September 11th  )
+( estimated time to completion: 20 hours ; due 5pm MT, Thursday, January 15th )
 
 
-This material is provided so that you will have some familiararity with it when we cover it again during class.  Don't worry if you don't understand everything as some of the videos go in to more detail than necessary.  But do be sure to go through all the lessons and queue up your questions to ask during class.
+This material is provided for you to skim through quickly so that you will have some familiararity with it when we cover it again during class.  Don't worry if you don't understand everything as some of the videos go in to more detail than necessary.  But do be sure to go through all the lessons and queue up your questions to ask during class.
 
 
 
@@ -419,7 +417,7 @@ This is a collection of LinkedIn Learning courses.  You do not have to do the qu
 
 ---
 
-# Phase 5: Optional 
+# Phase 5: Optional
 
 
 
