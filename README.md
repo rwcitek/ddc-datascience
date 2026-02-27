@@ -33,9 +33,8 @@ Then click on any of the links below.
 
 If you have installed the [LinkedIn Learning App]( https://www.linkedin.com/help/learning/answer/a701889 ), then you can download entire courses or individual videos to your mobile device.  This enables you to view/listen to them even when your internet connection is not very stable.  You can also view/listen to them at slower or faster speeds.
 
+# Additional Resources
 
-
-
-
+Here are some [additional resources](https://github.com/rwcitek/ddc-datascience/blob/2026-03-03-DSBL/resources.md) that I will refer to during class.
 
 
