@@ -1,4 +1,3 @@
-<a href="https://colab.research.google.com/github/rwcitek/ddc-datascience/blob/2025-10-24-DSBL/prework.dsbl.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Welcome to Data Science for Business Leaders
 
@@ -22,7 +21,6 @@ If you do not have a library card, the ABQ library website has [a page with inst
 
 Then click on any of the links below.
 
-
 1. [The Data Science of Economics, Banking, and Finance]( https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance-with-barton-poulson )
 1. [The Data Science of Educational Management and Policy]( https://www.linkedin.com/learning/the-data-science-of-educational-management-and-policy-with-barton-poulson )
 1. [The Data Science of Government and Political Science]( https://www.linkedin.com/learning/the-data-science-of-government-and-political-science-with-barton-poulson )
@@ -34,9 +32,6 @@ Then click on any of the links below.
 
 
 If you have installed the [LinkedIn Learning App]( https://www.linkedin.com/help/learning/answer/a701889 ), then you can download entire courses or individual videos to your mobile device.  This enables you to view/listen to them even when your internet connection is not very stable.  You can also view/listen to them at slower or faster speeds.
-
-
-
 
 
 
