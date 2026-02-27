@@ -13,9 +13,7 @@
 - [The Most Common Cognitive Bias]( https://www.youtube.com/watch?v=vKA4w2O61Xo ) - Veritasium
 
 - [The art of innovation | Guy Kawasaki | TEDxBerkeley]( https://www.youtube.com/watch?v=Mtjatz9r-Vc )
-- [Red Teaming: How Your Business Can Conquer the Competition by Challenging Everything]( https://www.amazon.com/Red-Teaming-Competition-Challenging-Everything/dp/1101905972 )
 - [The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy]( https://www.amazon.com/Theory-That-Would-Not-Die/dp/0300188226 )
-- [Yann LeCun | Self-Supervised Learning, JEPA, World Models, and the future of AI]( https://youtu.be/yUmDRxV0krg?si=HBmKpXnXI8F0V31f )
 
 
 
