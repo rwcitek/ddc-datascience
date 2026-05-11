@@ -49,7 +49,7 @@ The purpose of prework is to prepare the student for the rigors of the course as
 
 Prework is divided into five phases. The first four phases are **required**. The fifth phase is optional, but is recommended.
 
-The first day of lecture is on Friday, January 16th, and starts at 8:00am.
+The first day of lecture is on Monday, June 1st, and starts at 8:00am.
 
 **Due Dates:**
 * Phase 1: 17 days before the start of the bootcamp ( 5pm MT, Friday, May 15th )
@@ -307,7 +307,7 @@ View this video from [AI as Your Personal Learning Coach]( https://learning.orei
 
 Do the following steps:
 
-1. Create a notebook in NotebookLM using a browser ( the mobile app doesn't have all the features, yet. )
+1. Create a notebook in [NotebookLM]( https://notebooklm.google.com/ ) using a browser ( the mobile app doesn't have all the features, yet. )
 1. Add these three links to the notebook:
     - https://wesmckinney.com/book/python-basics
     - https://raw.githubusercontent.com/rwcitek/WhirlwindTourOfPython/refs/heads/master-rwc/01-How-to-Run-Python-Code.ipynb
