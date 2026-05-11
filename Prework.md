@@ -4,8 +4,13 @@
 
 This page will walk you through the steps to set up the tools you will be using for this bootcamp.  Along the way you will also create your first couple of projects!  
 
-( view this page in [nbviewer]( https://nbviewer.org/github/rwcitek/ddc-datascience/blob/2026-01-16-Cohort-20/Prework.ipynb ) or in [Github]( https://github.com/rwcitek/ddc-datascience/blob/2026-01-16-Cohort-20/Prework.ipynb )
+( view this page in [nbviewer]( https://nbviewer.org/github/rwcitek/ddc-datascience/blob/2026-06-01-Cohort-21/Prework.ipynb ) or in [Github]( https://github.com/rwcitek/ddc-datascience/blob/2026-06-01-Cohort-21/Prework.ipynb )
 ).
+
+
+
+
+
 
 
 ##  Instructor Contact Info
@@ -35,7 +40,7 @@ You are not alone in this endeavor. You will run into issues and roadblocks.  In
 - [LinkedIn Learning via the ABQ/Bern Library]( https://abqlibrary.org/az/linkedin-learning-formerly-lyndacom )
 - [O'Reilly Learning Library]( https://learning.oreilly.com/home/ )
 
-... usually in that order
+... not always, but often in that order
 
 
 ## Prework Schedule
@@ -47,10 +52,10 @@ Prework is divided into five phases. The first four phases are **required**. The
 The first day of lecture is on Friday, January 16th, and starts at 8:00am.
 
 **Due Dates:**
-* Phase 1: 14 days before the start of the bootcamp ( 5pm MT, Friday, January 2nd )
-* Phase 2: 9 days before the start of the bootcamp ( 5pm MT, Wednesday, January 7th )
-* Phase 3: 7 days before the start of the bootcamp ( 5pm MT, Friday, January 9th )
-* Phase 4: 1 day before the start of the bootcamp ( 5pm MT, Thursday, January 15th )
+* Phase 1: 17 days before the start of the bootcamp ( 5pm MT, Friday, May 15th )
+* Phase 2: 12 days before the start of the bootcamp ( 5pm MT, Wednesday, May 20th )
+* Phase 3: 10 days before the start of the bootcamp ( 5pm MT, Friday, May 22nd )
+* Phase 4: 4 days before the start of the bootcamp ( 5pm MT, Thursday, May 28th )
 * Phase 5: Optional
 
 > NOTE: if you are not able to turn in any of Phases 1-4 before their respective deadlines, please notify the instructor as soon as possible before the deadline.  Failure to complete the phases on-time without notifying the instructor will very likely result in you being dropped from the boot camp.
@@ -61,7 +66,7 @@ The first day of lecture is on Friday, January 16th, and starts at 8:00am.
 
 # Phase 1: Pro Dev and Setting Up Accounts
 
-( estimated time to completion: 3 hours ; 5pm MT, Friday, January 2nd )
+( estimated time to completion: 3 hours ; 5pm MT, Friday, May 15th )
 
 
 ## Pro Dev Prework
@@ -201,7 +206,7 @@ When you are finished with Phase 1, fill out --> [[THIS FORM]( https://forms.gle
 
 # Phase 2: Google Drive and Google Sheets
 
-( estimated time to completion: 10 hours ; due 5pm MT, Wednesday, January 7th )
+( estimated time to completion: 10 hours ; due 5pm MT, Wednesday, May 20th )
 
 
 This course is fairly fast-paced and uses numbers, lists of numbers, and operations on lists of numbers extensively.  Although there are no formal prerequisites, familiarity with working with a spreadsheet such as Google Sheets, LibreOffice Calc, MS Excel, or Apple Numbers provides a definite advantage.
@@ -270,7 +275,7 @@ Do these three exercises to brush-up on or to get familiar with common operation
 - Exercise 2: [Descriptive Statistics - 2]( https://github.com/rwcitek/ddc-datascience/blob/2024-05-20-Cohort-14/prework/desc-stat-2.md )
 - Exercise 3: [Pivot Tables]( https://github.com/rwcitek/ddc-datascience/blob/2024-05-20-Cohort-14/prework/pivot.md )
 
-When you have completed the exercises, create a Google Drive folder named `DS-Phase-02`, save these in that folder, share the folder with your instructor ( use the gmail address <a href="mailto:datasciencedeepdive@gmail.com">datasciencedeepdive@gmail.com</a> ), and notify your instructor via a DM on Slack.  We will go over these exercises on the first day of instruction and again later in the course.
+When you have completed the exercises, create a Google Drive folder named `DS-Phase-02`, save these in that folder, share the folder with your instructor ( use the gmail address <a href="mailto:datasciencedeepdive@gmail.com">datasciencedeepdive@gmail.com</a> ), and notify your instructor via a direct message ( DM ) on Slack.  We will go over these exercises on the first day of instruction and again later in the course.
 
 
 
@@ -279,39 +284,74 @@ When you have completed the exercises, create a Google Drive folder named `DS-Ph
 
 # Phase 3: Intro to the Toolchain
 
-( estimated time to completion: 3 hours ; due 5pm MT, Friday, January 9th )
+( estimated time to completion: 5 hours ; due 5pm MT, Friday, May 22nd )
+
+
+## Using Generative AI
+
+To keep pace with the rigor of this course, it is essential to leverage every tool at your disposal. Generative AI ( GenAI ) has become a premier force multiplier for learning, offering a way to iterate on ideas and troubleshoot blocks with unprecedented speed. These resources will guide you in using AI as a 'co-pilot' rather than a substitute, ensuring you can learn faster, understand more clearly, and focus your energy on the high-level concepts that matter most.
+
+Read through the first three chapters of [AI Prompt Engineering Absolute Beginners Guide]( https://learning.oreilly.com/library/view/ai-prompt-engineering/9780135570449/ )
+- [1-Understanding Generative AI]( https://learning.oreilly.com/library/view/ai-prompt-engineering/9780135570449/ch01.xhtml )
+- [2-What Is Prompt Engineering—and Why Is It Important?]( https://learning.oreilly.com/library/view/ai-prompt-engineering/9780135570449/ch02.xhtml )
+- [3-The Anatomy of a Perfect Prompt]( https://learning.oreilly.com/library/view/ai-prompt-engineering/9780135570449/ch03.xhtml )
+
+View this video from [AI as Your Personal Learning Coach]( https://learning.oreilly.com/course/ai-as-your/9780135588727/ ) which covers using Google's NotebookLM.
+
+- [3.4 AI-Powered Study Notes with NotebookLM]( https://learning.oreilly.com/videos/ai-as-your/9780135588727/9780135588727-AYPLC1_01_03_04/ )
+
+
+
+
+#### Task
+
+Do the following steps:
+
+1. Create a notebook in NotebookLM using a browser ( the mobile app doesn't have all the features, yet. )
+1. Add these three links to the notebook:
+    - https://wesmckinney.com/book/python-basics
+    - https://raw.githubusercontent.com/rwcitek/WhirlwindTourOfPython/refs/heads/master-rwc/01-How-to-Run-Python-Code.ipynb
+    - https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html
+1. Using the Report artifact in the Studio pane, create a Study Guide.
+1. Share the notebook with your instructor ( use the gmail address <a href="mailto:datasciencedeepdive@gmail.com">datasciencedeepdive@gmail.com</a> ).  The share icon has three connected dots and is located in the top right corner of the notebook.
+1. Notify your instructor via a direct message ( DM ) on Slack.
+
+Try creating some other artifacts like flash cards and videos.  Clicking on the '>' of an artifact allows you to customize it especially if you modify the default prompt.
+
+Later and if you have time, skim/read/view the full content of both of those Generative AI resources.
+
+
 
 
 ## Using Github with Google Colab
 
+
 You do NOT have to follow along with this video, but you DO need to watch it before proceeding.
+
 
 [Using GitHub with Google Colab - YouTube video](https://www.youtube.com/watch?v=qCHH2_UoXfw).
 
 ## Your First Google Colab Project: Plotting Stamp Prices
 
-Watch the video below for instructions on completing this project.
+Watch this video for instructions on completing this project.
 
-Below are the links for the data used in this project.
+- [First Google Colab Project - YouTube video](https://www.youtube.com/watch?v=lfvBMyEll1I).
 
-Here is the link to cite in your text block:
+These are the links for the data used in this project.
 
-https://vincentarelbundock.github.io/Rdatasets/datasets.html
+- Link to cite in your text block:
+    - https://vincentarelbundock.github.io/Rdatasets/datasets.html
+- Link to use for actually importing the data using `pd.read_csv()`:
+    - https://vincentarelbundock.github.io/Rdatasets/csv/Stat2Data/USstamps.csv
 
-Here is the link to use for actually importing the data using pd.read_csv():
-
-https://vincentarelbundock.github.io/Rdatasets/csv/Stat2Data/USstamps.csv
-
-[First Google Colab Project - YouTube video](https://www.youtube.com/watch?v=lfvBMyEll1I).
-
-**When you have completed this project, send the link to your Github project to your instructors via Slack.**
+**When you have completed this project, send the link to your Github project to your intstructor via a direct message ( DM ) on Slack.**
 
 
 ---
 
 # Phase 4: Tutorial Classes
 
-( estimated time to completion: 20 hours ; due 5pm MT, Thursday, January 15th )
+( estimated time to completion: 20 hours ; due 5pm MT, Thursday, May 28th )
 
 
 This material is provided for you to skim through quickly so that you will have some familiararity with it when we cover it again during class.  Don't worry if you don't understand everything as some of the videos go in to more detail than necessary.  But do be sure to go through all the lessons and queue up your questions to ask during class.
