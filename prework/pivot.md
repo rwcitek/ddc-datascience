@@ -13,5 +13,4 @@
       - rows: Project
       - columns: Year
       - value: Actual Budget ( Average )
-      
-See ["Pivot DS.sample"]( https://docs.google.com/spreadsheets/d/1FvMoBXG9cTy2gF45yKyw5OWoPoDdBUffU0nKFNgXTh4/edit?usp=sharing ) to check your work.
+8) Check your work. Compare your results to ["Pivot DS.sample"]( https://docs.google.com/spreadsheets/d/1FvMoBXG9cTy2gF45yKyw5OWoPoDdBUffU0nKFNgXTh4/edit?usp=sharing ).
