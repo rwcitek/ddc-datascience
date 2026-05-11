@@ -13,4 +13,7 @@
       - rows: Project
       - columns: Year
       - value: Actual Budget ( Average )
-8) Check your work. Compare your results to ["Pivot DS.sample"]( https://docs.google.com/spreadsheets/d/1FvMoBXG9cTy2gF45yKyw5OWoPoDdBUffU0nKFNgXTh4/edit?usp=sharing ).
+8) Check your work. Compare your results to ["Pivot DS.sample"]( https://docs.google.com/spreadsheets/d/1FvMoBXG9cTy2gF45yKyw5OWoPoDdBUffU0nKFNgXTh4/edit?usp=sharing ).  This is a sample of the sheets showing the correct structure, formatting, and values of the pivot tables without actually being pivot tables.  Also, the first sheet contains only the first ten values of the Samples data set.
+
+
+
