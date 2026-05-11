@@ -8,9 +8,7 @@
 5) To the right of "Sum Delta Squared =>" ( cell D2 ), enter a formula to sum all the values under the "Delta Squared" field
 6) To the right of "Mean Sum Delta Squared =>" ( cell D3 ), enter a formula to divide the "Sum Delta Squared" by one less than the Count ( cell B1 )
 7) To the right of the "Sample Standard Deviation =>" ( cell D3 ), enter a formula to take the square root of "Mean Sum Delta Squared".  This number should equal the "Calc StdDev".
-
-See ["Desc Stats-2.sample"]( https://docs.google.com/spreadsheets/d/1M55xOsI2qi8F6W0BkauLxMuXJxfrDEqufBiuS57oba8/edit?usp=share_link ) to check your work.
-This is a sample of the sheet showing the results of the calculations, but only the first ten values of the Samples data set.
+8) Check your work.  Compart your results to ["Desc Stats-2.sample"]( https://docs.google.com/spreadsheets/d/1M55xOsI2qi8F6W0BkauLxMuXJxfrDEqufBiuS57oba8/edit?usp=share_link ). This is a sample of the sheet showing all the results of the calculations, but only the first ten values of the Samples data set.
 
 
 
