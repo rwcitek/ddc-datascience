@@ -5,8 +5,7 @@
 3) To the right of "Count =>" ( cell B2 ), enter a formula to count the number of values under the "Samples" field
 4) To the right of "Sum =>" ( cell B3 ), enter a formula to add up the values under the "Samples" field
 5) To the right of "Mean =>" ( cell B4 ), enter a formula to divide the "Sum" by the "Count", i.e. calculate the mean. This number should equal the "Calc Mean".
-
-See ["Desc Stats-1.sample"]( https://docs.google.com/spreadsheets/d/1wJrEsDjoz-jHYv3YN7I4IrvCjqkdUM-y-ONiRtD6P1c/edit?usp=share_link ) to check your work.
-This is a sample of the sheet showing the results of the calculations, but only the first ten values of the Samples data set.
+6) Check your work.  Compare your results to ["Desc Stats-1.sample"]( https://docs.google.com/spreadsheets/d/1wJrEsDjoz-jHYv3YN7I4IrvCjqkdUM-y-ONiRtD6P1c/edit?usp=share_link ).
+This is a sample of the sheet showing all the results of the calculations, but only the first ten values of the Samples data set.
 
 
