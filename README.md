@@ -37,6 +37,6 @@ If you have installed the [LinkedIn Learning App]( https://www.linkedin.com/help
 
 # Additional Resources
 
-Here are some [additional resources](https://github.com/rwcitek/ddc-datascience/blob/2026-03-03-DSBL/resources.md) that I will refer to during class.
+Here are some [additional resources](./resources.md) that I will refer to during class.
 
 
