@@ -8,6 +8,8 @@ If you have any questions, please contact your instructors.
 **Lead Instructor**  
 Robert Citek: rcitek@cnm.edu
 
+**Assistant Instructor**  
+Brooks Burkhead: bburkhead@cnm.edu
 
 # Overview of Data Science
 
