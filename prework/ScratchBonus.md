@@ -10,6 +10,6 @@ Your program should include at least:
 - 1 conditional ("if" or "if/else")
 
 Beyond that, the idea is entirely yours. Feel free to explore the scratch community pages for inspiration,
-explore using other sprites other than the default cat, set up a backdrop and come up with aa story! Otherwise, be creative and have fun!
+explore using other sprites other than the default cat, set up a backdrop and come up with a story! Otherwise, be creative and have fun!
 
 
