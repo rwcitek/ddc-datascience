@@ -13,6 +13,6 @@ We want the cat to meow three times.
 9. Snap the "wait 1 seconds" block underneath the "play sound Meow until done" block, so they form a pair.
 10. Right-click the TOP block of the pair ("play sound Meow until done") and select "Duplicate." This copies both blocks in the pair together. Repeat this once more, so you now have three identical play-sound/wait pairs stacked in a row. Attach the duplicates below the original pair.
 11. Attach the whole stack under "when green flag clicked" and run your program. The cat should meow three (3) times.
-> You just repeated the same two blocks three times by hand. In the next exercise, you'll work with a block that does this repetition for you.
-9. Click "File" > "Save now" to save to your account, then "File" > "Save to 
+   > You just repeated the same two blocks three times by hand. In the next exercise, you'll work with a block that does this repetition for you.
+12. Click "File" > "Save now" to save to your account, then "File" > "Save to 
    your computer" to download "Meow.sb3"
