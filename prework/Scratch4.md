@@ -4,12 +4,11 @@ For this exercise, you'll rebuild "Meow x3" using a loop instead of manually
 duplicating blocks.
 
 1. Go to https://scratch.mit.edu, log in, and open your "Meow" project from "My Stuff."
-2. Open your "Meow" project from Exercise
-3. Click "File" > "Save as a copy" and rename it to "Meow-Loop".
-4. Remove two of your three "play sound Meow until done" + "wait 1 seconds" 
+2. Click "File" > "Save as a copy" and rename it to "Meow-Loop".
+3. Remove two of your three "play sound Meow until done" + "wait 1 seconds" 
    pairs, so only one pair remains attached under "when green flag clicked".
-5. Click the orange "Control" category.
-6. Drag the "repeat (10)" block onto your canvas. Notice its C-shape, it "wraps around" whatever blocks are 
+4. Click the orange "Control" category.
+5. Drag the "repeat (10)" block onto your canvas. Notice its C-shape, it "wraps around" whatever blocks are 
    placed inside it.
 7. Disconnect your remaining "play sound Meow until done" + "wait 1 seconds" 
    pair from "when green flag clicked" and drag it inside the C-shape of the 
