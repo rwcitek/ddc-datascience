@@ -1,5 +1,3 @@
-<a href="https://colab.research.google.com/gist/rwcitek/d87789807d915ac1a90894f139079a51/data-science-syllabus.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 # Module 1: Introduction and Naive Bayes
 
 ## Programming
@@ -217,6 +215,3 @@ The capstone project is set up to have multiple deliverables throughout the proj
 
 
 
-```
-
-```
