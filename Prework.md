@@ -58,7 +58,7 @@ The first day of lecture is on Monday, September 21st, and starts at 8:00am.
 **Due Dates:**
 * Phase 1: 17 days before the start of the bootcamp ( 5pm MT, Friday, September 4th )
 * Phase 2: 12 days before the start of the bootcamp ( 5pm MT, Wednesday, September 9th )
-* Phase 3: 7 days before the start of the bootcamp ( 5pm MT, Friday, September 14th )
+* Phase 3: 7 days before the start of the bootcamp ( 5pm MT, Monday, September 14th )
 * Phase 4: 4 days before the start of the bootcamp ( 5pm MT, Thursday, September 17th )
 * Phase 5: Optional
 
@@ -270,7 +270,7 @@ We will go over these exercises on the first day of instruction and refer to the
 
 # Phase 3: Markdown and the Toolchain
 
-( estimated time to completion: 10 hours ; due 5pm MT, Friday, September 14th )
+( estimated time to completion: 10 hours ; due 5pm MT, Monday, September 14th )
 
 
 
