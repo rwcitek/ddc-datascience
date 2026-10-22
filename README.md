@@ -33,7 +33,7 @@ Then click on any of the links below.
 1. [The Data Science of Sports Management]( https://www.linkedin.com/learning/the-data-science-of-sports-management-with-barton-poulson )
 
 
-If you have installed the [LinkedIn Learning App]( https://www.linkedin.com/help/learning/answer/a701889 ), then you can download entire courses or individual videos to your mobile device.  This enables you to view/listen to them even when your internet connection is not very stable.  You can also view/listen to them at slower or faster speeds.
+If you have installed the [LinkedIn Learning App]( https://www.linkedin.com/help/learning/answer/a701889 ), then you can download entire courses or individual videos to your mobile device.  This enables you to view/listen to them even when your internet connection is not very stable.  You can also view/listen to them at slower or faster speeds.  If the app asks for your library code to log in, enter `cabq`.
 
 # Additional Resources
 
