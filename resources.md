@@ -2,6 +2,7 @@
 
 - [Albuquerque Chapter - American Statistical Association]( https://community.amstat.org/albuquerquechapter/home )
 - [Large Language Models explained briefly]( https://www.youtube.com/watch?v=LPZh9BOjkQs ) - Grant Sanderson, 3blue1brown
+- [28th Annual New Mexico Data Users Conference 2026]( https://bber.unm.edu/data/nm-duc/28-Annual-NM-Data-Users-Conference-2026 )
 - LinkedIn Learning
   - [How LLMs work]( https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work )
   - [Data Literacy]( https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data/ )
